@@ -1,0 +1,224 @@
+Pre-Registered Trial Protocol
+Fluconazole vs. Placebo in Adult Irritable Bowel Syndrome with Adaptive Mycobiome Enrichment Analysis
+A Phase 2 Randomized, Double-Blind, Placebo-Controlled Proof-of-Concept Trial
+
+Jim Craddock
+Redacted Science Research Initiative
+Companion to: Clear Evidence, No Trial — Mycobiome IBS and Antifungals
+Article DOI: 10.5281/zenodo.19645403
+April 2026
+
+1. Purpose of this Document
+This document is a pre-registered clinical trial protocol. It specifies the design, methodology, endpoints, statistical plan, and operational parameters for a randomized controlled trial that has not been conducted. It is deposited on Zenodo to establish a timestamped, citable, publicly available record of the trial design prior to its execution by any investigator or sponsor.
+The protocol is released under a Creative Commons Attribution license. Any investigator, institution, or sponsor may adopt, adapt, or execute this design. The only requirement is citation of this document and its parent article (Craddock 2026, DOI 10.5281/zenodo.19645403) as the origin of the pre-registered design.
+This document does not constitute an IND application, an IRB submission, or a clinical trial registry entry. Those steps remain the responsibility of any sponsor or investigator electing to execute the trial. This document is intended to make such execution easier by providing a complete design skeleton that can be adapted to local regulatory and institutional requirements.
+2. Background and Rationale
+The scientific rationale for this trial is documented in the companion article (Craddock 2026). In brief: Botschuijver et al. (2017, Gastroenterology) established in a validated rat model that intestinal fungal dysbiosis causally produces visceral hypersensitivity, and that antifungal treatment (fluconazole, nystatin) reverses it. The finding has been cited more than 240 times as of April 2026. Sciavilla et al. (2021, Applied Microbiology and Biotechnology) demonstrated clonal expansion of Candida albicans with upgraded virulence phenotypes in IBS patients compared to healthy controls, and notably showed that IBS-derived C. albicans isolates were more susceptible to fluconazole than healthy-control isolates. Additional human observational studies (Hong et al. 2020; Das et al. 2021) have confirmed mycobiome dysbiosis in IBS across independent cohorts.
+Despite this accumulated evidence, no randomized controlled trial of antifungal therapy versus placebo has been published in IBS patients. This trial is designed to fill that gap.
+The trial is designed to answer two questions simultaneously. First, whether oral fluconazole reduces IBS symptom severity in the general IBS population. Second, whether baseline mycobiome characteristics predict response. The adaptive enrichment component of the analysis plan allows the trial to identify both the overall treatment effect and a biomarker-defined subgroup in whom effect may be concentrated.
+3. Hypotheses
+3.1 Primary hypothesis
+Oral fluconazole administered at 150 mg daily for 6 weeks produces a statistically and clinically significant reduction in IBS symptom severity, as measured by the IBS Symptom Severity Scale (IBS-SSS), compared to matched placebo in adult IBS patients meeting Rome IV criteria.
+3.2 Secondary hypotheses
+Treatment response is durable beyond the active treatment period, as measured at 12 weeks post-treatment.
+Response is associated with specific baseline mycobiome characteristics, identifiable through ITS1/ITS2 sequencing of fecal samples, that distinguish responders from non-responders.
+Treatment produces measurable reduction in Candida albicans relative abundance and shifts overall mycobiome composition toward profiles characteristic of healthy controls.
+4. Study Design
+Design: Randomized, double-blind, placebo-controlled, parallel-group, single-center Phase 2 trial
+Allocation ratio: 1:1
+Blinding: Double-blind (participant, investigator, outcomes assessor, statistician)
+Arms: Two (active treatment, placebo)
+Treatment duration: 6 weeks
+Follow-up duration: 12 weeks post-treatment (total study duration per participant: 18 weeks plus 2-week run-in)
+Target enrollment: 120 participants (60 per arm)
+Setting: Single academic gastroenterology center
+Anticipated enrollment period: 12 months
+Anticipated total trial duration: 18 months from first enrollment to last follow-up
+5. Study Population
+5.1 Inclusion criteria
+Adults aged 18 to 65 years, inclusive.
+Diagnosis of irritable bowel syndrome meeting Rome IV criteria (recurrent abdominal pain, on average, at least 1 day per week in the last 3 months, associated with two or more of: related to defecation; associated with a change in stool frequency; associated with a change in stool form).
+IBS-SSS total score of 175 or greater at screening (moderate to severe IBS).
+Symptom duration of at least 6 months prior to screening.
+Able to provide informed consent, complete daily electronic symptom diary, and attend scheduled visits.
+Women of childbearing potential must agree to use effective contraception throughout treatment and for 7 days after final dose.
+5.2 Exclusion criteria
+Structural gastrointestinal disease (inflammatory bowel disease, celiac disease, prior GI surgery other than appendectomy or cholecystectomy).
+Systemic antifungal therapy within the prior 90 days.
+Systemic antibiotic therapy within the prior 30 days.
+Current use of probiotics, prebiotics, or fecal microbiota transplant within the prior 30 days.
+Known hypersensitivity to fluconazole or other azole antifungals.
+Current use of medications with significant fluconazole interactions (warfarin, certain statins, cisapride, pimozide, quinidine, erythromycin, terfenadine, astemizole, astemizole, voriconazole).
+Hepatic impairment (ALT or AST greater than 2.5 times upper limit of normal).
+QTc interval greater than 450 ms on screening ECG.
+Pregnancy, breastfeeding, or planned pregnancy during study period.
+Active malignancy within 5 years (non-melanoma skin cancer excluded).
+Immunocompromising condition or therapy.
+Participation in another interventional clinical trial within 30 days.
+6. Intervention
+6.1 Active treatment arm
+Drug: Fluconazole, oral capsule, 150 mg
+Dose: 150 mg once daily
+Duration: 6 weeks (42 days)
+Route: Oral, with or without food
+Source: Generic fluconazole, USP, from a qualified commercial supplier
+6.2 Placebo arm
+Formulation: Matching placebo capsule, indistinguishable from active in appearance, color, odor, and weight
+Dose and schedule: One capsule once daily for 6 weeks
+Source: Compounding pharmacy contracted for clinical trial supply
+6.3 Rationale for dose selection
+150 mg daily is a well-established fluconazole dose with decades of safety data in mucosal candidiasis. It is above the MIC90 identified in Sciavilla et al. (2021) for IBS-derived C. albicans isolates (32 µg/ml), producing plasma levels well exceeding the inhibitory concentration. A pulsed weekly regimen (150 mg once weekly) was considered and rejected for the primary design because it may be insufficient for sustained suppression during a 6-week window; daily dosing matches the mechanistic goal of consistent fungal suppression throughout the treatment period. Lower doses (50 or 100 mg daily) may be evaluated in future dose-finding studies if this trial produces a positive signal.
+6.4 Compliance monitoring
+Pill count at each scheduled visit. Electronic medication event monitoring system (MEMS) caps optional for enhanced compliance data. Participants are excluded from per-protocol analysis if compliance falls below 80 percent of prescribed doses.
+7. Randomization and Blinding
+Randomization will be performed by an independent statistician using a computer-generated sequence with permuted blocks of size 4 and 6, stratified by IBS subtype (IBS-D, IBS-C, IBS-M, IBS-U) based on baseline Bristol Stool Scale distribution during the 2-week run-in period. Allocation will be concealed using sequentially numbered, opaque, sealed drug containers prepared by an unblinded pharmacist not otherwise involved in the trial.
+Participants, investigators, study coordinators, outcomes assessors, and the primary statistician will remain blinded to treatment allocation until the database is locked and the primary analysis is complete. The unblinded pharmacist and an independent data safety monitoring board (DSMB) will have access to allocation information as required for safety review.
+8. Endpoints
+The endpoint structure below includes a urinary electrolyte panel (sodium, potassium, chloride, urea, creatinine, osmolality) as a pre-specified mechanistic exploratory endpoint. Candida albicans has documented interactions with host electrolyte handling, and fluconazole-induced suppression of fungal populations may produce measurable shifts in urinary electrolyte excretion patterns that correlate with symptom improvement. This endpoint is inexpensive (standard commercial lab panel, ordered through the participant's local commercial lab via trial-supplied requisition), adds no additional procedural burden, and generates mechanistic data relevant both to this trial's core hypothesis and to broader questions about fungal-host physiological integration. Week 1 sampling is included specifically to capture early-treatment effects before symptom changes manifest, providing a potential early biomarker of treatment engagement.
+Endpoint tier	Measure	Timing
+Primary	IBS-SSS total score change from baseline	Week 6 (end of treatment)
+Secondary (clinical)	IBS-SSS responder rate (=50-point reduction)	Weeks 6 and 18
+Secondary (clinical)	Abdominal pain NRS weekly mean change	Weeks 3, 6, 18
+Secondary (clinical)	Bristol Stool Scale normalization (proportion of days type 3–5)	Weeks 3, 6, 18
+Secondary (clinical)	IBS-QoL score change	Weeks 6, 18
+Secondary (clinical)	HADS anxiety/depression change	Weeks 6, 18
+Secondary (durability)	IBS-SSS responder rate at 12 weeks post-treatment	Week 18
+Mechanistic	Mycobiome alpha/beta diversity change (ITS1/ITS2)	Week 6 vs. baseline
+Mechanistic	Candida albicans abundance change	Week 6 vs. baseline
+Mechanistic	Urinary electrolyte panel (Na, K, Cl, urea, creatinine, osmolality)	Baseline, Week 1, Week 6, Week 18
+Mechanistic	Responder vs. non-responder baseline mycobiome comparison	Post-hoc pre-specified
+Exploratory	Candidate biomarker identification for enrichment design	End of study
+Safety	Adverse events, liver function, QTc	Throughout
+
+8.1 Primary endpoint detail
+The IBS Symptom Severity Scale (IBS-SSS; Francis et al. 1997) is a validated 5-item questionnaire producing a total score from 0 to 500, with higher scores indicating greater severity. Scores from 75 to 174 represent mild IBS; 175 to 299 moderate; 300 or greater severe. A reduction of 50 points or greater is considered a clinically meaningful response in the published validation literature.
+The primary analysis is the between-group difference in IBS-SSS total score change from baseline to Week 6, assessed by mixed-effects model for repeated measures (MMRM) including baseline score, treatment, visit, treatment-by-visit interaction, and IBS subtype stratification variable as covariates.
+9. Schedule of Assessments
+Assessment	Screening	Baseline (Wk 0)	Wk 1	Wk 3	Wk 6 (EOT)	Wk 18 (EOF)
+Informed consent	X					
+Rome IV criteria check	X					
+Medical history, concomitant meds	X	X		X	X	X
+Physical exam, vitals	X	X			X	X
+Liver function tests	X			X	X	
+Pregnancy test (WOCBP)	X	X			X	
+IBS-SSS		X		X	X	X
+Bristol Stool Scale diary		X (2-wk run-in)	X	X	X	X (2-wk)
+Abdominal pain NRS (daily)		X	X	X	X	X
+IBS-QoL questionnaire		X			X	X
+HADS anxiety/depression		X			X	X
+Fecal sample (mycobiome bank)		X			X	X
+Urinary electrolyte panel (local lab)		X	X		X	X
+Randomization		X				
+Drug dispensing / accountability		X		X	X	
+Adverse event assessment		X	X	X	X	X
+
+Abbreviations: WOCBP, women of childbearing potential; EOT, end of treatment; EOF, end of follow-up; Wk, week.
+10. Sample Size Justification
+Sample size is calculated for the primary endpoint (IBS-SSS change from baseline at Week 6).
+Assumptions: two-sided alpha = 0.05; power = 0.80; effect size Cohen's d = 0.55 (moderate); standard deviation of IBS-SSS change estimated at 95 points based on published IBS intervention trials; anticipated between-group mean difference of approximately 52 points.
+Calculation yields 53 evaluable participants per arm. Accounting for an anticipated 12 percent loss to follow-up, enrollment target is 60 per arm (120 total).
+Power sensitivity: at n=60 per arm, power is 91 percent if true effect size is d = 0.70 (plausible given Botschuijver rat-model effect magnitudes); 80 percent at d = 0.55; 65 percent at d = 0.45 (conservative).
+The trial is not powered for confirmatory assessment of subgroup effects. Adaptive enrichment analyses (Section 11) are pre-specified as hypothesis-generating, with any identified enrichment biomarkers to be validated in a subsequent adequately-powered Phase 3 trial.
+11. Statistical Analysis Plan
+11.1 Populations
+Intention-to-treat (ITT): all randomized participants, analyzed according to assigned treatment. Primary analysis population.
+Per-protocol (PP): ITT participants with =80 percent medication compliance, no major protocol deviations, and completion of Week 6 assessment. Supportive analysis.
+Safety: all randomized participants who received at least one dose of study drug, analyzed according to treatment received.
+11.2 Primary analysis
+Mixed-effects model for repeated measures (MMRM) on IBS-SSS total score at Weeks 3, 6, and 18, with fixed effects for treatment, visit, treatment-by-visit interaction, baseline IBS-SSS, and IBS subtype. Unstructured covariance matrix. Primary comparison: treatment difference at Week 6.
+11.3 Secondary analyses
+Responder analysis (IBS-SSS reduction =50 points) at Weeks 6 and 18 by logistic regression adjusting for baseline score and subtype.
+Time-to-response analysis (time to first IBS-SSS reduction of =50 points) via Cox proportional hazards model.
+All secondary endpoints analyzed with appropriate models (MMRM for continuous, logistic for binary, Cox for time-to-event).
+11.4 Adaptive enrichment analysis
+Pre-specified. All enrolled participants provide baseline fecal samples banked at -80°C. At trial conclusion, samples are sequenced in batch for ITS1/ITS2. Responder status (IBS-SSS reduction =50 points at Week 6) is defined per the primary analysis.
+Three pre-specified comparisons are performed:
+(a) Baseline mycobiome alpha and beta diversity compared between responders and non-responders within the treatment arm.
+(b) Differential abundance analysis (ANCOM-BC or equivalent) of fungal taxa between responders and non-responders in the treatment arm.
+(c) Predictive modeling (random forest, elastic net) using baseline mycobiome features to predict treatment response, with leave-one-out cross-validation.
+Any predictive signature identified is flagged as exploratory and intended to define the enrichment criterion for a subsequent Phase 3 trial. No claims of efficacy in identified subgroups are made on the basis of this Phase 2 trial alone.
+11.5 Handling of missing data
+Primary analysis handles missing data via MMRM assumption of missing-at-random. Sensitivity analyses include multiple imputation under missing-not-at-random assumptions and tipping-point analysis.
+11.6 Interim analysis
+One pre-specified interim analysis for futility is conducted after 60 participants complete Week 6 assessment. Conditional power below 20 percent under the observed treatment effect triggers a DSMB recommendation to consider trial stoppage. No efficacy stopping is planned at interim.
+12. Safety Monitoring
+12.1 Adverse event collection
+All adverse events are recorded from the time of first dose through the end of the 12-week follow-up period. Events are graded per CTCAE v5.0 and categorized as related, possibly related, or not related to study treatment by the blinded investigator.
+12.2 Fluconazole-specific monitoring
+Liver function tests (ALT, AST, alkaline phosphatase, bilirubin) at screening, Week 3, and Week 6. Study drug held for Grade 2 or greater hepatotoxicity, permanently discontinued for Grade 3 or greater.
+ECG at screening; repeated at Week 3 if baseline QTc was 420 to 450 ms or if clinical signs warrant. Study drug discontinued for QTc prolongation above 500 ms or increase from baseline above 60 ms.
+12.3 Data Safety Monitoring Board
+Independent DSMB with at least three members (gastroenterologist, biostatistician, clinical pharmacologist). Reviews safety data at 25, 50, and 75 percent enrollment milestones and at the pre-specified interim futility analysis. Empowered to recommend modification or cessation of the trial on safety grounds.
+13. Ethical Considerations
+The trial will be conducted in accordance with the Declaration of Helsinki, International Council for Harmonisation Good Clinical Practice (ICH-GCP) guidelines, and applicable local regulations.
+All participants will provide written informed consent prior to any study procedure. The consent document will disclose the known risks of fluconazole, the experimental nature of the IBS indication, the adaptive enrichment design and banking of biological samples, and the participant's right to withdraw at any time without penalty.
+The protocol will be reviewed and approved by a qualified Institutional Review Board (IRB) or Ethics Committee prior to enrollment of the first participant. Any protocol amendments will be submitted for IRB review prior to implementation, except where safety considerations require immediate action.
+Fluconazole is FDA-approved for multiple indications at the dose and duration proposed here. Use in IBS is off-label but within the established safety envelope. The sponsor should consult with the FDA regarding the need for an Investigational New Drug (IND) application. An IND exemption is likely applicable under 21 CFR 312.2(b) if the trial does not intend to support a new indication or labeling change, does not involve a route, dose, or population that significantly increases risk, and is conducted under IRB oversight.
+14. Data Management and Sharing
+Data will be collected via validated electronic case report forms (eCRFs) with audit trail, source data verification, and 21 CFR Part 11 compliance for regulated study conduct.
+Upon trial completion, the sponsor commits to public deposit of: (a) the final study report, (b) de-identified individual participant data under appropriate controlled access, (c) the full statistical analysis code, and (d) raw mycobiome sequencing data in NCBI SRA or ENA public archives. Deposit occurs no later than 12 months after primary analysis completion, irrespective of trial outcome.
+Publication will follow ICMJE guidelines. Both positive and negative findings will be published in full. The sponsor agrees to not suppress, delay, or selectively report results based on the direction of findings.
+15. Budget Estimate
+The following estimate reflects a single-center academic trial conducted at United States cost structures. International conduct, partial leveraging of existing infrastructure, or public-health-system integration may reduce these figures significantly.
+Line item	Estimated USD	Notes
+Fluconazole drug (42 days x 120 patients)	4,200	Generic, ~$1/day
+Placebo manufacturing (matched)	8,000	Compounding pharmacy
+ITS1/ITS2 mycobiome sequencing (3 timepoints x 120)	80,000	~$220/sample bulk rate
+Urinary electrolyte panels (4 timepoints x 120)	29,000	Local commercial lab (~$60/panel)
+Clinical staff (PI, coordinator, nurse) 18 mo	350,000	Single-center standard
+Regulatory, IRB, monitoring	75,000	IND-exempt likely; IRB required
+Clinical labs (LFTs, pregnancy, CBC)	30,000	Standard commercial rates
+Data management and statistics	60,000	CRF design, analysis plan
+Patient stipends (travel, time)	30,000	$250/patient x 120
+Publication, deposit, dissemination	8,000	Open-access fees, Zenodo deposits
+Contingency (10%)	67,000	
+TOTAL	741,000	Less than 0.4% of typical branded IBS drug dev cost
+
+Total estimated cost: approximately USD 741,000, or approximately USD 6,175 per enrolled participant. For comparison, reported development costs for the branded IBS drugs approved between 2000 and 2019 range from USD 200 million to over USD 1 billion per agent. The proposed trial can be executed at less than 0.4 percent of the cost of developing a single comparator branded drug.
+16. Competing Interests and Commercial Considerations
+Fluconazole is an off-patent generic drug with no identifiable commercial sponsor positioned to profit from a positive trial outcome. The branded IBS drug market generated multi-billion dollar annual revenue as of 2025, across multiple proprietary agents. A positive trial result would introduce a comparator priced at approximately 0.5 to 10 percent of existing branded alternatives.
+This funding asymmetry is identified in the companion article as the likely structural explanation for the nine-year absence of this trial despite clear mechanistic evidence (Craddock 2026). Potential funding sources include: public research funding bodies (NIH, NIHR, EU Horizon programs, equivalent national agencies), patient-advocacy foundations, generic pharmaceutical manufacturers seeking new indications, public-private partnerships for drug repurposing, and philanthropic research organizations.
+The honest assessment is that none of these funding channels is currently robust for a trial of this type. Public research funding for generic-drug repurposing trials in IBS is structurally disfavored relative to novel-molecule and mechanism-discovery research, and has contracted rather than expanded over the period during which the evidence base for this specific trial has accumulated. Patient-advocacy foundations typically operate at funding scales below what this trial requires. Generic manufacturers lack the downstream commercial incentive to underwrite Phase 2 clinical research in new indications. The observation is itself part of what the Clear Evidence, No Trial series documents: clinical research questions of high potential impact go unfunded when the economic incentive structure does not reward their answer. This protocol is deposited into the public record in part to make that structural failure visible and citable.
+The authors of this protocol declare no commercial interests in any of the drugs named in the companion article or this document.
+17. Adaptation and Attribution
+Investigators or sponsors adapting this protocol for execution should:
+Cite this document (Craddock 2026, Zenodo DOI to be assigned) and the companion article (Craddock 2026, DOI 10.5281/zenodo.19645403) in all protocol submissions, registry entries, and publications.
+Register the trial in a public trial registry (ClinicalTrials.gov, EudraCT, ISRCTN) prior to enrollment of the first participant.
+Maintain or exceed the transparency commitments specified in Section 14.
+Report significant deviations from this design in the resulting trial publication.
+The authors of this protocol are available for consultation on design adaptation, though such consultation is not a requirement for use.
+18. Pre-Registered Follow-On Phase 3 Design
+This section pre-registers the broad structure of a follow-on Phase 3 trial contingent on a positive Phase 2 result. It is not intended as a complete protocol; the Phase 2 adaptive enrichment analysis must complete before the Phase 3 design parameters can be finalized. What is pre-registered here is the architecture, the triggering conditions, and the design principles. A complete Phase 3 protocol will be deposited as a subsequent record in the Clear Evidence, No Trial series once the Phase 2 results are available.
+18.1 Trigger conditions
+The Phase 3 trial is triggered by any of the following Phase 2 outcomes:
+Primary endpoint positive: statistically significant between-group difference in IBS-SSS change at Week 6 (p < 0.05, two-sided) with clinically meaningful effect size (between-group mean difference = 30 points on IBS-SSS).
+Primary endpoint null but adaptive enrichment signal positive: Phase 2 primary endpoint fails to reach significance in the overall population, but pre-specified adaptive enrichment analysis identifies a baseline mycobiome-defined subgroup with statistically significant response (subgroup p < 0.05 after multiplicity adjustment) and clinically meaningful effect size within that subgroup.
+18.2 Design architecture
+Design: Randomized, double-blind, placebo-controlled, parallel-group, multi-center Phase 3 trial
+Allocation ratio: 1:1
+Blinding: Double-blind (participant, investigator, outcomes assessor, statistician)
+Arms: Two (fluconazole, placebo)
+Treatment duration: 6 weeks (unchanged from Phase 2 unless Phase 2 dose-response data suggest modification)
+Follow-up duration: 26 weeks post-treatment (extended from Phase 2 to establish durability)
+Target enrollment: 400 participants (200 per arm) as primary design; adjustable based on Phase 2 effect-size refinement
+Setting: Multi-center, minimum 8 sites across at least 2 countries
+Enrollment criterion: If Phase 2 primary is positive overall: same Phase 2 criteria. If Phase 2 is positive only in enrichment subgroup: restricted to participants meeting the Phase 2-identified baseline mycobiome biomarker profile.
+18.3 Design principles
+Primary endpoint: IBS-SSS change from baseline at Week 6, consistent with Phase 2 for comparability.
+Key secondary endpoint: IBS-SSS responder status at Week 32 (26 weeks post-treatment) to establish durability.
+Mycobiome resequencing at baseline, end of treatment, and end of follow-up to confirm target engagement and assess durability of microbial shift.
+Pre-specified non-inferiority comparison against one active branded IBS comparator (selected from the seven agents enumerated in the companion article) if regulatory or payer context makes such comparison useful.
+Health economics substudy: cost-per-quality-adjusted-life-year (QALY) analysis comparing fluconazole to standard-of-care pharmacotherapy, powered to support payer and formulary decision-making.
+18.4 Attribution and staging
+The Phase 3 design will be finalized and deposited as a separate Zenodo record within 6 months of Phase 2 primary analysis completion. The Phase 3 record will cite this Phase 2 protocol and the companion article as parent documents. The adaptive enrichment analysis outputs from Phase 2 will be published prior to or concurrent with the Phase 3 protocol deposit to ensure the enrichment criterion (if used) is publicly documented before Phase 3 enrollment begins.
+Investigators or sponsors executing the Phase 2 trial described in this document are encouraged, but not required, to coordinate with the authors on Phase 3 design. If Phase 2 is executed by one group and Phase 3 by another, the Phase 3 protocol should reference both the Phase 2 protocol (this document) and the Phase 2 results publication as part of the Phase 3 design justification.
+
+References
+Botschuijver, S., Roeselers, G., Levin, E., et al. (2017). Intestinal fungal dysbiosis is associated with visceral hypersensitivity in patients with irritable bowel syndrome and rats. Gastroenterology, 153(4), 1026–1039. https://doi.org/10.1053/j.gastro.2017.06.004
+Craddock, J. (2026). Clear Evidence, No Trial: Mycobiome IBS and Antifungals. Zenodo. https://doi.org/10.5281/zenodo.19645403
+Das, A., O'Herlihy, E., Shanahan, F., O'Toole, P. W., & Jeffery, I. B. (2021). The fecal mycobiome in patients with irritable bowel syndrome. Scientific Reports, 11, 124. https://doi.org/10.1038/s41598-020-79478-6
+Francis, C. Y., Morris, J., & Whorwell, P. J. (1997). The irritable bowel severity scoring system: a simple method of monitoring irritable bowel syndrome and its progress. Alimentary Pharmacology & Therapeutics, 11(2), 395–402.
+Hong, G., Li, Y., Yang, M., et al. (2020). Gut fungal dysbiosis and altered bacterial-fungal interaction in patients with diarrhea-predominant irritable bowel syndrome: An explorative study. Neurogastroenterology & Motility, 32(11), e13891. https://doi.org/10.1111/nmo.13891
+Sciavilla, P., Strati, F., Di Paola, M., et al. (2021). Gut microbiota profiles and characterization of cultivable fungal isolates in IBS patients. Applied Microbiology and Biotechnology, 105(8), 3277–3288. https://doi.org/10.1007/s00253-021-11264-4
+
+This pre-registered protocol is a deliverable of the Clear Evidence, No Trial series from the Redacted Science Research Initiative. Each entry in the series names a specific problem, a specific treatment, and the structural reasons the required trial has not been conducted. Each entry is accompanied, where feasible, by a pre-registered protocol establishing a citable, timestamped record of the trial design. Any qualified investigator or sponsor is free to execute any design published in this series.

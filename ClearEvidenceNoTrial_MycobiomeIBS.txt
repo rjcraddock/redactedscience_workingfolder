@@ -1,0 +1,70 @@
+Clear Evidence, No Trial
+Mycobiome IBS and Antifungals
+Jim Craddock
+Redacted Science
+April 2026
+
+Summary
+No randomized controlled trial of antifungal therapy versus placebo has been published in irritable bowel syndrome (IBS) patients stratified by mycobiome profile, despite rat-model causation established in 2017 and human strain-level phenotypic characterization published in 2021. The absence is conspicuous. The evidence is mechanistic, specific, and directly actionable. The drug is generic, inexpensive, and has decades of human safety data. The patient population is enormous. However, the trial has not been run — despite the foundational 2017 causation paper accumulating more than 240 citations in the literature as of April 2026, and despite observational confirmation from multiple independent human cohorts in the years since. This paper documents what the evidence shows, what the trial should look like, and why it has not happened.
+The Trial That Was Not Run
+Upon literature review, a randomized controlled trial of oral fluconazole (or equivalent azole antifungal) versus placebo, in adult IBS patients stratified by mycobiome profile, with visceral hypersensitivity measured pre- and post-treatment, has not been conducted or published as of April 2026. The mechanistic rationale has been available since 2017. The human phenotypic evidence was added in 2021. Observational confirmation has accumulated in the years since. The comparator drug has been available as an inexpensive generic since 2004. No such trial registry entry, completed study, or published result currently appears in the indexed literature.
+The Evidence
+Animal-Model Causation
+Botschuijver and colleagues (2017), working in the van den Wijngaard group at Amsterdam, established direct fungal-causation of visceral hypersensitivity in rats. Maternally separated rats (a validated stress-induced IBS-analog model) developed both mycobiome dysbiosis and visceral hypersensitivity relative to non-handled controls. Treatment with fluconazole and nystatin reduced visceral hypersensitivity. Fecal microbiota transfer from dysbiotic rats transmitted the hypersensitivity phenotype, while transfer from normally-sensitive controls did not. The study was published in Gastroenterology, the flagship journal of the American Gastroenterological Association, and has accumulated more than 240 citations in the scientific literature as of April 2026.
+The result established a specific, testable, causal claim: fungal dysbiosis produces visceral hypersensitivity, and pharmacologic suppression of the fungal component reverses it. The authors stated the intervention implication explicitly. From the paper's own conclusion:
+“In studies of rats, we found fungi to promote visceral hypersensitivity, which could be reduced by administration of fungicides, soluble ß-glucans, or a SYK inhibitor. The intestinal fungi might therefore be manipulated for treatment of IBS-related visceral hypersensitivity.”
+The authors named the intervention. The trial was not run.
+Human Strain-Level Characterization
+Sciavilla and colleagues (2021, Applied Microbiology and Biotechnology) characterized cultivable Candida albicans isolates from 20 IBS patients versus 18 healthy controls. The findings were sharp.
+IBS-derived C. albicans isolates showed clonal expansion within individual patients, as measured by RAPD fingerprinting. Clones were unrelated across different IBS patients, ruling out a transmissible strain and indicating that each host independently selected for specific subpopulations from within their own resident organism pool.
+82.1 percent of IBS-derived C. albicans isolates formed hyphae or pseudohyphae, compared with 54.3 percent of isolates from healthy controls. Hyphae-forming isolates were significantly more invasive in agar-penetration assays (FDR-corrected p < 0.01). IBS isolates showed phenotypic specialization rather than generic hardening: reduced growth under typical gastrointestinal conditions (pH 3, bile acids, 37–42°C), but enhanced tolerance at pH 2 and temperatures of 44–46°C.
+Crucially, and counter to assumptions that might discourage antifungal intervention, IBS-derived C. albicans isolates were MORE susceptible to fluconazole than isolates from healthy controls (MIC90 of 32 µg/ml for IBS versus greater than 64 µg/ml for healthy subjects; 86.8 percent susceptible versus 71.4 percent). The organism phenotype that appears most disease-associated is also the phenotype most likely to respond to the standard generic azole.
+The authors concluded, in their own discussion, that fungal isolates with peculiar virulent and invasive traits could contribute to visceral hypersensitivity associated with IBS. From the Sciavilla discussion:
+“We could hypothesize that fungal isolates with peculiar virulent and invasive traits could contribute to visceral hypersensitivity associated to IBS... we could speculate a putative clonal expansion of C. albicans strains in IBS.”
+They stopped short of recommending an intervention trial.
+Human Observational Confirmation
+Additional human cohort studies have confirmed mycobiome dysbiosis in IBS across independent populations. Hong et al. (2020, Neurogastroenterology & Motility) documented gut fungal dysbiosis and altered bacterial-fungal interactions specifically in diarrhea-predominant IBS, with Candida abundance positively correlated to bloating severity and anxiety scores. Das et al. (2021, Scientific Reports) characterized the fecal mycobiome in IBS and documented systematic compositional differences from healthy controls.
+The observational pattern is consistent. The intervention trial is absent.
+The Trial That Should Be Run
+The study design is not conceptually difficult. Every component already exists in standard clinical and research practice:
+Population: Adult IBS patients meeting Rome IV criteria, stratified at enrollment by fecal ITS1/ITS2 mycobiome sequencing to identify those with documented dysbiosis. Diarrhea-predominant and mixed subtypes prioritized based on Hong et al. findings.
+Intervention: Oral fluconazole at standard dosing (150–200 mg, daily or pulsed weekly) for 4–6 weeks, or oral nystatin as an alternative non-absorbed comparator arm.
+Control: Matched placebo.
+Primary endpoint: Change in visceral hypersensitivity, measured by rectal balloon distension threshold pre- and post-treatment. This is a validated, quantitative, non-subjective measure already in routine use in IBS research.
+Secondary endpoints: IBS Severity Scoring System (IBS-SSS) scores, abdominal pain frequency and intensity, bowel habit normalization, quality-of-life measures. Post-treatment mycobiome resequencing to confirm target engagement.
+Duration: 6-week treatment arm with 12-week follow-up to assess durability.
+Sample size: Power calculations based on effect sizes reported in Botschuijver and downstream animal replication data suggest a feasible trial at 60–120 patients per arm, well within the scope of a single academic center.
+Cost estimate: Fluconazole generic pricing is approximately $0.25–$1.00 per dose depending on formulation. A full 6-week course at 150 mg daily costs roughly $10–$40 per patient in drug expense. The full trial, including mycobiome sequencing, balloon-distension testing, and standard clinical monitoring, would run in the low seven figures — modest by modern clinical trial standards and less than 1 percent of the development cost of any branded IBS drug approved in the last two decades.
+The Timeline Problem
+Between 2000 and 2019, the U.S. Food and Drug Administration approved at least seven branded drugs for the treatment of IBS or IBS-associated symptoms. Each represented hundreds of millions of dollars in development cost. Each was developed against a patentable novel molecule or novel indication. None were tested against a generic antifungal comparator.
+Year	Drug (generic)	Brand	Indication	Approx. monthly retail (2025)
+2000	alosetron	Lotronex	severe IBS-D (restricted)	$400–500
+2002	tegaserod	Zelnorm	IBS-C (restricted 2007)	~$300 (pre-restriction)
+2004	fluconazole generic	—	off-patent commodity	$15–35
+2008	lubiprostone	Amitiza	IBS-C	$300–400
+Aug 2012	linaclotide	Linzess	IBS-C	$568–750
+May 2015	eluxadoline	Viberzi	IBS-D	$1,700–2,000
+May 2015	rifaximin	Xifaxan	IBS-D (14-day course)	$1,600–3,100
+Jun 2017	Botschuijver et al.	—	rat causation established	—
+Jan 2017 / 2018	plecanatide	Trulance	CIC / IBS-C	$500–600
+Sep 2019	tenapanor	Ibsrela	IBS-C	$2,000–2,650
+
+The cost delta is the essential part of the table. Generic fluconazole at standard dosing costs roughly $15–35 per month at United States retail pharmacies. Its branded IBS-indicated competitors cost between $300 and $2,650 per month. The cheapest branded IBS drug in active use costs approximately ten times what a full month of the generic antifungal costs. The most expensive costs roughly one hundred times as much. A successful fluconazole-IBS trial would introduce a comparator priced at 0.5 to 10 percent of the existing market — for a condition that collectively generates billions of dollars in annual branded-drug revenue.
+Fluconazole became available as a generic in the United States in approximately 2004, following the expiration of core Pfizer patents on the molecule. By the time Botschuijver and colleagues published their rat-model causation study in June 2017, fluconazole had been an off-patent commodity drug for thirteen years.
+The 2017 causation finding arrived in the middle of the most active period of branded IBS-drug approvals in the history of the indication. Eluxadoline and rifaximin had been approved for IBS-D two years earlier. Plecanatide's IBS-C indication was approved in January 2018, seven months after Botschuijver. Tenapanor was in late-stage trials. A successful fluconazole-IBS trial in 2017 would have competed directly with every one of these products, and would have done so at a fraction of the per-patient drug cost.
+No commercial sponsor had any incentive to fund such a trial. Pharmaceutical development is structurally oriented toward patent-protected molecules with defensible market exclusivity. A generic-drug comparator trial — especially one that might demonstrate equivalent or superior efficacy to a branded competitor at 1/100th the monthly cost — offers no return on investment. Academic and public-sector funding for generic-drug repurposing trials, while it exists, is chronically underfunded relative to novel-molecule development. The U.S. National Institutes of Health budget for this type of work has been flat or declining in real terms across the relevant period.
+The finding was not suppressed. It was ignored — cited, confirmed observationally, and never translated into the obvious intervention trial. The incentive structure reliably produces this outcome whenever strong evidence supports a cheap-generic intervention for a condition already served by a branded drug market. The mechanism is economic, not conspiratorial. The result is a nine-year silence on a trial that should have taken two years to run.
+Why This Matters
+IBS affects roughly 10–15 percent of the global adult population. Annual direct and indirect costs in the United States alone are estimated in the tens of billions of dollars. Current pharmacologic options produce modest symptom improvement in a subset of patients and carry adverse event profiles that range from nuisance-level to severe. Several IBS drugs have been restricted or withdrawn post-approval due to safety signals.
+A trial of a cheap, safe, generic antifungal in mycobiome-dysbiotic IBS patients is one of the lowest-cost, lowest-risk, highest-potential-impact clinical research questions currently identifiable in gastroenterology. The evidence base supporting it is stronger than the evidence base that supported several approved branded competitors at the time of their regulatory submission. The trial has not been run.
+The framework within which this finding is most readily interpreted — that Candida albicans operates as a regulated component of host physiology rather than an incidental opportunist — has been developed elsewhere [1]. The interpretive framework is not required to acknowledge the central observation of this paper: the evidence is clear, the trial is obvious, and the trial has not been run.
+Any interested investigator, sponsor, or regulatory body is free to run it.
+
+References
+Botschuijver, S., Roeselers, G., Levin, E., et al. (2017). Intestinal fungal dysbiosis is associated with visceral hypersensitivity in patients with irritable bowel syndrome and rats. Gastroenterology, 153(4), 1026–1039. https://doi.org/10.1053/j.gastro.2017.06.004
+Das, A., O'Herlihy, E., Shanahan, F., O'Toole, P. W., & Jeffery, I. B. (2021). The fecal mycobiome in patients with irritable bowel syndrome. Scientific Reports, 11, 124. https://doi.org/10.1038/s41598-020-79478-6
+Hong, G., Li, Y., Yang, M., et al. (2020). Gut fungal dysbiosis and altered bacterial-fungal interaction in patients with diarrhea-predominant irritable bowel syndrome: An explorative study. Neurogastroenterology & Motility, 32(11), e13891. https://doi.org/10.1111/nmo.13891
+Sciavilla, P., Strati, F., Di Paola, M., et al. (2021). Gut microbiota profiles and characterization of cultivable fungal isolates in IBS patients. Applied Microbiology and Biotechnology, 105(8), 3277–3288. https://doi.org/10.1007/s00253-021-11264-4
+[1] Craddock, J. (2025). Candida albicans as a Biochemical Computer. Zenodo. https://doi.org/10.5281/zenodo.19337525
+
+Clear Evidence, No Trial is a series published by Redacted Science documenting clinical research questions where mechanistic evidence is established, the intervention is specific and available, and the required randomized trial has not been conducted. Each entry names the problem, the treatment, and the structural reasons the trial has not happened. The series makes no claim that its underlying framework must be accepted; the documented absences stand on their own terms.
